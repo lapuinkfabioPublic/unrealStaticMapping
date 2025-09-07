@@ -1,3 +1,4 @@
+//Fabio Leandro Lapuinka 06/09/2025
 // Função para converter um actor BSP em Static Mesh
 void ConvertBSPToStaticMesh(ABrush* BrushActor, UWorld* World)
 {
