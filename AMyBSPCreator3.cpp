@@ -1,3 +1,4 @@
+//Fabio Leandro Lapuinka 06/09/2025
 // No arquivo .cpp
 #include "MyBSPCreator.h"
 #include "Engine/Polys.h"
